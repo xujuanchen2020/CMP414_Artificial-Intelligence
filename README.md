@@ -1,3 +1,5 @@
 # CMP414_Artificial-Intelligence
-Computer Science course at Lehman College, Spring 2020, Professor, Liang Zhao
-In-Class notes, for personal review and study.
+%nComputer Science course at Lehman College, 
+%nSpring 2020, 
+%nCodes written by Professor Liang Zhao
+%nIn-Class notes, for personal review and study.
